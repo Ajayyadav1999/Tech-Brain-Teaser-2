@@ -34,8 +34,8 @@ I have included both implementations for demonstration:
 
 | Approach | Load Time | Memory Usage | User Experience |
 |----------|-----------|--------------|-----------------|
-| **Paginated ** | ⚡ Fast | 🟢 Low | ✅ Smooth |
-| **All-at-once ** | 🐌 Slow | 🔴 High | ❌ Poor |
+| **Paginated**  | ⚡ Fast | 🟢 Low | ✅ Smooth |
+| **All-at-once** | 🐌 Slow | 🔴 High | ❌ Poor |
 
 ## Key Benefits
 
